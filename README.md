@@ -1,105 +1,103 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YoshPT/YoshPT/main/assets/header.svg" alt="ํYosh Poomrat, Business-focused Data Analyst" width="100%" />
+<img src="https://raw.githubusercontent.com/YoshPT/YoshPT/main/assets/header.svg" alt="Yosh Poomrat, Business-focused Data Analyst" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=45&lines=Turning+raw+data+into+clear+answers;Predicting+who+will+skip+your+event;Measuring+how+unequal+income+really+is;Finding+customers+worth+winning+back" alt="typing animation" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=45&lines=Turning+raw+data+into+clear+answers;Analyzing+factors+behind+event+no-shows;Measuring+how+unequal+income+really+is;Finding+customers+worth+winning+back" alt="typing animation" />
+<br><br>
 
 </div>
 
----
+--- 
+## 🔗 About Me
 
-## About
+**Economics graduate** who turns raw data into clear answers. I work with **SQL, Python, R, and BI tools** across data preparation, visualization, and dashboards, and I use **statistical methods** to uncover patterns and the **business drivers** behind them.
 
-Economics graduate who turns raw data into clear answers. I work with SQL, Python, R, and BI tools across data preparation, visualization, and dashboards, and I use statistical methods to uncover patterns and the business drivers behind them.
+<br>
 
-`Question` → `Clean` → `Model` → `Visualize` → `Recommend`
+`🤔 Question` ➔ `🧹 Clean` ➔ `📊 Analyze` ➔ `📈 Visualize` ➔ `💡 Recommend`
+
+<br>
 
 | | |
-|---|---|
-| **Education** | B.Econ, Chiang Mai University · GPA 3.64 |
-| **Languages** | Thai (Native) · English (Intermediate) |
+| :--- | :--- |
+| **🎓 Education** | B.Econ, Chiang Mai University · GPA 3.64 |
+| **🗣️ Languages** | Thai (Native) · English (Intermediate) |
 
 ---
-
-## Case files
+## 🚀 Project
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**CASE 01**
-
+**🎟️ PROJECT 01**
 ### Who will skip the event?
 
-**Longer lead time means higher no-show risk (about +2.8% odds per extra day), and job level matters too.**
+> **💡 Insight:** Longer lead time means higher no-show risk (about +2.8% odds per extra day). 
 
-Logistic regression on 9,179 registrations (AUC 0.70), tested with p-values, odds ratios, Wald Chi-Square, and VIF. Turned into overbooking quotas and targeted CRM reminders.
+Applied **Logistic Regression** on 9,179 registrations (AUC 0.70). Validated with p-values, odds ratios, and VIF to establish overbooking quotas and targeted CRM reminders.
 
-`R` `RStudio`
+<br>
 
-[View project →](https://github.com/YoshPT/event-noshow-prediction)
+🛠️ `R` `RStudio`
+
+[**View project →**](https://github.com/YoshPT/event-noshow-prediction)
 
 </td>
 <td width="33%" valign="top">
 
-**CASE 02**
-
+**📊 PROJECT 02**
 ### How unequal is Thai household income?
 
-**Measured with the Gini Coefficient and Palma Ratio.**
+> **💡 Insight:** Measured economic disparity effectively using Grouped Gini Coefficient and Palma Ratio.
 
-End-to-end analysis with data quality checks, missing value handling, and outlier treatment. Histograms, KDE plots, and box plots tell the story. Built for Super AI Engineer Season 6.
+End-to-end EDA with data quality checks, missing value handling, and outlier treatment. Visualized data stories using histograms, KDE plots, and box plots. Built for Super AI Engineer.
 
-`Python` `Pandas` `Seaborn`
+<br>
 
-[View project →](https://github.com/YoshPT/Thailand-Income-Inequality-EDA/tree/main)
+🛠️ `Python` `Pandas` `Seaborn`
+
+[**View project →**](https://github.com/YoshPT/Thailand-Income-Inequality-EDA/tree/main)
 
 </td>
 <td width="33%" valign="top">
 
-**CASE 03**
+**🎯 PROJECT 03**
+### Who Are Our Most Valuable Customers??
 
-### Which customers are worth winning back?
+> **💡 Insight:** High-value "At Risk" customers are the primary targets for win-back campaigns.
 
-**High-value "At Risk" customers are the win-back targets.**
+Built an **RFM segmentation model** via advanced SQL to categorize customers into 5 groups. Implemented schema design and indexing for query optimization to drive cross-selling strategies.
 
-RFM model in advanced SQL that splits customers into 5 segments, with schema design and indexing for faster queries. "Champion" product preferences point to cross-selling.
+<br>
 
-`SQL` `MySQL` `CTEs` `Window Functions`
+🛠️ `SQL` `MySQL` `CTEs` `Window Functions`
 
-[View project →](https://github.com/YoshPT/SQL-RFM-Customer-Segmentation)
+[**View project →**](https://github.com/YoshPT/SQL-RFM-Customer-Segmentation)
 
 </td>
 </tr>
 </table>
 
 ---
+## 🧰 Toolbox & Skills
 
-## Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-`Pandas` `NumPy` `Scikit-learn` `Power Query` `XLOOKUP` `Pivot Tables`
-`Econometrics` `Time Series` `Hypothesis Testing` `Correlation` `Regression`
+*   **Languages:** `MySQL` `Python` `R`
+*   **BI & Analytics:** `Power BI` `Tableau` `MS Excel` `Google Workspace`
+*   **Data Wrangling & Libraries:** `Pandas` `NumPy` `Scikit-learn` `Power Query` `XLOOKUP` `Pivot Tables`
+*   **Statistical Analysis:** `Econometrics` `Time Series` `Hypothesis Testing` `Correlation` `Regression`
 
 ---
 
-## Experience
+## 💼 Work Experience
 
-**Data Analyst Intern** · Eventthai Co., Ltd., Nonthaburi
-<br><sub>Nov 2025 – Mar 2026</sub>
+**Data Analyst Intern @ Eventthai Co., Ltd.**
+*Nov 2025 – Mar 2026 | Nonthaburi, Thailand*
 
-- Cleaned attendee registration data in Excel and delivered accurate databases and analytical reports to event organizers
-- Wrote executive summaries on daily check-ins, tracking link sources, access scans, seminar attendance, and questionnaire results
-- Built an interactive financial dashboard for HR to track monthly and quarterly staffing costs, project values, and profit margins for executive reporting
+* **🧹 Data Wrangling & Reporting:** Cleansed and structured complex attendee registration data using **Advanced MS Excel**, ensuring high data integrity for event organizers' analytical reports.
+* **📊 Event Analytics:** Generated executive summaries by analyzing core metrics, including daily check-ins, acquisition link sources, access scans, and questionnaire results.
+* **📈 Financial BI Dashboard:** Built an interactive dashboard for the HR department to track staffing costs, project values, and profit margins, empowering the executive board with data-driven insights.
 
 ---
 
@@ -107,8 +105,8 @@ RFM model in advanced SQL that splits customers into 5 segments, with schema des
 
 ### Let's talk about data
 
-<a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/poomrat-thanapasee-6a99443b3/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:poomratthana@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
