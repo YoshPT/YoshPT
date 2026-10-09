@@ -1,86 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Josh Poomrat, Business-focused Data Analyst">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f2027"/>
-      <stop offset="0.5" stop-color="#203a43"/>
-      <stop offset="1" stop-color="#2c5364"/>
-    </linearGradient>
-    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#5eead4"/>
-      <stop offset="1" stop-color="#0f766e"/>
-    </linearGradient>
-  </defs>
+<div align="center">
 
-  <rect width="900" height="260" rx="18" fill="url(#bg)"/>
+<img src="https://raw.githubusercontent.com/YoshPT/YoshPT/main/assets/header.svg" alt="ํYosh Poomrat, Business-focused Data Analyst" width="100%" />
 
-  <!-- grid lines -->
-  <g stroke="#ffffff" stroke-opacity="0.07">
-    <line x1="540" y1="215" x2="870" y2="215"/>
-    <line x1="540" y1="170" x2="870" y2="170"/>
-    <line x1="540" y1="125" x2="870" y2="125"/>
-    <line x1="540" y1="80" x2="870" y2="80"/>
-    <line x1="540" y1="35" x2="870" y2="35"/>
-  </g>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=45&lines=Turning+raw+data+into+clear+answers;Predicting+who+will+skip+your+event;Measuring+how+unequal+income+really+is;Finding+customers+worth+winning+back" alt="typing animation" />
 
-  <!-- bars grow one by one -->
-  <rect x="560" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="45" dur="0.7s" begin="0.2s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="170" dur="0.7s" begin="0.2s" fill="freeze"/>
-  </rect>
-  <rect x="598" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="70" dur="0.7s" begin="0.35s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="145" dur="0.7s" begin="0.35s" fill="freeze"/>
-  </rect>
-  <rect x="636" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="60" dur="0.7s" begin="0.5s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="155" dur="0.7s" begin="0.5s" fill="freeze"/>
-  </rect>
-  <rect x="674" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="105" dur="0.7s" begin="0.65s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="110" dur="0.7s" begin="0.65s" fill="freeze"/>
-  </rect>
-  <rect x="712" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="95" dur="0.7s" begin="0.8s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="120" dur="0.7s" begin="0.8s" fill="freeze"/>
-  </rect>
-  <rect x="750" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="135" dur="0.7s" begin="0.95s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="80" dur="0.7s" begin="0.95s" fill="freeze"/>
-  </rect>
-  <rect x="788" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="125" dur="0.7s" begin="1.1s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="90" dur="0.7s" begin="1.1s" fill="freeze"/>
-  </rect>
-  <rect x="826" y="215" width="26" height="0" rx="4" fill="url(#bar)">
-    <animate attributeName="height" from="0" to="170" dur="0.7s" begin="1.25s" fill="freeze"/>
-    <animate attributeName="y" from="215" to="45" dur="0.7s" begin="1.25s" fill="freeze"/>
-  </rect>
+<br>
 
-  <!-- trend line draws itself -->
-  <polyline points="573,156 611,131 649,141 687,96 725,106 763,66 801,76 839,31"
-            fill="none" stroke="#fbbf24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
-            stroke-dasharray="360" stroke-dashoffset="360">
-    <animate attributeName="stroke-dashoffset" from="360" to="0" dur="1.4s" begin="1.6s" fill="freeze"/>
-  </polyline>
+<table>
+<tr>
+<td align="center" width="190"><h2>9,179</h2><sub>REGISTRATIONS<br>MODELED</sub></td>
+<td align="center" width="190"><h2>0.70</h2><sub>MODEL AUC<br>(LOGISTIC REGRESSION)</sub></td>
+<td align="center" width="190"><h2>+2.8%</h2><sub>NO-SHOW ODDS<br>PER EXTRA DAY</sub></td>
+<td align="center" width="190"><h2>5</h2><sub>CUSTOMER SEGMENTS<br>BUILT IN SQL</sub></td>
+</tr>
+</table>
 
-  <!-- end point with pulse -->
-  <circle cx="839" cy="31" r="0" fill="#fbbf24">
-    <animate attributeName="r" from="0" to="6" dur="0.3s" begin="3s" fill="freeze"/>
-  </circle>
-  <circle cx="839" cy="31" r="6" fill="none" stroke="#fbbf24" opacity="0">
-    <animate attributeName="r" values="6;16" dur="1.8s" begin="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0" dur="1.8s" begin="3s" repeatCount="indefinite"/>
-  </circle>
+</div>
 
-  <!-- status pill (delete this group if you don't want it) -->
-  <rect x="40" y="30" width="165" height="28" rx="14" fill="#4ade80" fill-opacity="0.12" stroke="#4ade80" stroke-opacity="0.4"/>
-  <circle cx="58" cy="44" r="5" fill="#4ade80">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="72" y="48.5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#bbf7d0">OPEN TO WORK</text>
+---
 
-  <!-- text -->
-  <text x="40" y="128" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" fill="#ffffff">Josh Poomrat</text>
-  <text x="40" y="168" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#5eead4">Business-focused Data Analyst</text>
-  <text x="40" y="204" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#94a3b8">Economics &#215; Statistics &#215; SQL &#183; Python &#183; R &#183; BI</text>
-</svg>
+## About
+
+Economics graduate who turns raw data into clear answers. I work with SQL, Python, R, and BI tools across data preparation, visualization, and dashboards, and I use statistical methods to uncover patterns and the business drivers behind them.
+
+`Question` → `Clean` → `Model` → `Visualize` → `Recommend`
+
+| | |
+|---|---|
+| **Education** | B.Econ, Chiang Mai University · GPA 3.64 |
+| **Languages** | Thai (Native) · English (Intermediate) |
+
+---
+
+## Case files
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**CASE 01**
+
+### Who will skip the event?
+
+**Longer lead time means higher no-show risk (about +2.8% odds per extra day), and job level matters too.**
+
+Logistic regression on 9,179 registrations (AUC 0.70), tested with p-values, odds ratios, Wald Chi-Square, and VIF. Turned into overbooking quotas and targeted CRM reminders.
+
+`R` `RStudio`
+
+[View project →](https://github.com/YoshPT/event-noshow-prediction)
+
+</td>
+<td width="33%" valign="top">
+
+**CASE 02**
+
+### How unequal is Thai household income?
+
+**Measured with the Gini Coefficient and Palma Ratio.**
+
+End-to-end analysis with data quality checks, missing value handling, and outlier treatment. Histograms, KDE plots, and box plots tell the story. Built for Super AI Engineer Season 6.
+
+`Python` `Pandas` `Seaborn`
+
+[View project →](https://github.com/YoshPT/Thailand-Income-Inequality-EDA/tree/main)
+
+</td>
+<td width="33%" valign="top">
+
+**CASE 03**
+
+### Which customers are worth winning back?
+
+**High-value "At Risk" customers are the win-back targets.**
+
+RFM model in advanced SQL that splits customers into 5 segments, with schema design and indexing for faster queries. "Champion" product preferences point to cross-selling.
+
+`SQL` `MySQL` `CTEs` `Window Functions`
+
+[View project →](https://github.com/YoshPT/SQL-RFM-Customer-Segmentation)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+`Pandas` `NumPy` `Scikit-learn` `Power Query` `XLOOKUP` `Pivot Tables`
+`Econometrics` `Time Series` `Hypothesis Testing` `Correlation` `Regression`
+
+---
+
+## Experience
+
+**Data Analyst Intern** · Eventthai Co., Ltd., Nonthaburi
+<br><sub>Nov 2025 – Mar 2026</sub>
+
+- Cleaned attendee registration data in Excel and delivered accurate databases and analytical reports to event organizers
+- Wrote executive summaries on daily check-ins, tracking link sources, access scans, seminar attendance, and questionnaire results
+- Built an interactive financial dashboard for HR to track monthly and quarterly staffing costs, project values, and profit margins for executive reporting
+
+---
+
+<div align="center">
+
+### Let's talk about data
+
+<a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
