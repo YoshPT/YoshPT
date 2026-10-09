@@ -4,17 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=45&lines=Turning+raw+data+into+clear+answers;Predicting+who+will+skip+your+event;Measuring+how+unequal+income+really+is;Finding+customers+worth+winning+back" alt="typing animation" />
 
-<br>
-
-<table>
-<tr>
-<td align="center" width="190"><h2>9,179</h2><sub>REGISTRATIONS<br>MODELED</sub></td>
-<td align="center" width="190"><h2>0.70</h2><sub>MODEL AUC<br>(LOGISTIC REGRESSION)</sub></td>
-<td align="center" width="190"><h2>+2.8%</h2><sub>NO-SHOW ODDS<br>PER EXTRA DAY</sub></td>
-<td align="center" width="190"><h2>5</h2><sub>CUSTOMER SEGMENTS<br>BUILT IN SQL</sub></td>
-</tr>
-</table>
-
 </div>
 
 ---
