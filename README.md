@@ -19,10 +19,16 @@
 
 <br>
 
-| | |
-| :--- | :--- |
-| **🎓 Education** | B.Econ, Chiang Mai University · GPA 3.64 |
-| **🗣️ Languages** | Thai (Native) · English (Intermediate) |
+<table>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>B.Econ, Chiang Mai University · GPA 3.64</td>
+  </tr>
+  <tr>
+    <td><b>🗣️ Languages</b></td>
+    <td>Thai (Native) · English (Intermediate)</td>
+  </tr>
+</table>
 
 ---
 ## 🚀 Project
@@ -32,7 +38,7 @@
 <td width="33%" valign="top">
 
 **🎟️ PROJECT 01**
-### Who will skip the event?
+### What drives event no-shows?
 
 > **💡 Insight:** Longer lead time means higher no-show risk (about +2.8% odds per extra day). 
 
@@ -64,9 +70,9 @@ End-to-end EDA with data quality checks, missing value handling, and outlier tre
 <td width="33%" valign="top">
 
 **🎯 PROJECT 03**
-### Who Are Our Most Valuable Customers??
+### Who Are Our Most Valuable Customers?
 
-> **💡 Insight:** High-value "At Risk" customers are the primary targets for win-back campaigns.
+> **💡 Insight:** Uncovered top product preferences for "Champions" to drive bundle promotions, and identified high-value "At Risk" targets for direct win-back campaigns.
 
 Built an **RFM segmentation model** via advanced SQL to categorize customers into 5 groups. Implemented schema design and indexing for query optimization to drive cross-selling strategies.
 
@@ -92,8 +98,12 @@ Built an **RFM segmentation model** via advanced SQL to categorize customers int
 
 ## 💼 Work Experience
 
-**Data Analyst Intern @ Eventthai Co., Ltd.**
-*Nov 2025 – Mar 2026 | Nonthaburi, Thailand*
+<table width="100%">
+  <tr>
+    <td><b>Data Analyst Intern</b> @ Eventthai Co., Ltd.</td>
+    <td align="right"><i>Nov 2025 – Mar 2026</i></td>
+  </tr>
+</table>
 
 * **🧹 Data Wrangling & Reporting:** Cleansed and structured complex attendee registration data using **Advanced MS Excel**, ensuring high data integrity for event organizers' analytical reports.
 * **📊 Event Analytics:** Generated executive summaries by analyzing core metrics, including daily check-ins, acquisition link sources, access scans, and questionnaire results.
