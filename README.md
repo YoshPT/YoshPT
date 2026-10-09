@@ -1,70 +1,86 @@
-# Hi there, I'm Yosh Poomrat 👋
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Josh Poomrat, Business-focused Data Analyst">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
 
-### Business-focused Data Analyst | Economics Graduate
+  <rect width="900" height="260" rx="18" fill="url(#bg)"/>
 
-I am a Data Analyst with a strong foundation in statistical modeling and an Economics background. I specialize in leveraging SQL, Python, R, and BI tools for end-to-end data preparation, predictive modeling, and dashboard development to empower data-informed decision-making.
+  <!-- grid lines -->
+  <g stroke="#ffffff" stroke-opacity="0.07">
+    <line x1="540" y1="215" x2="870" y2="215"/>
+    <line x1="540" y1="170" x2="870" y2="170"/>
+    <line x1="540" y1="125" x2="870" y2="125"/>
+    <line x1="540" y1="80" x2="870" y2="80"/>
+    <line x1="540" y1="35" x2="870" y2="35"/>
+  </g>
 
----
+  <!-- bars grow one by one -->
+  <rect x="560" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="45" dur="0.7s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="170" dur="0.7s" begin="0.2s" fill="freeze"/>
+  </rect>
+  <rect x="598" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="70" dur="0.7s" begin="0.35s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="145" dur="0.7s" begin="0.35s" fill="freeze"/>
+  </rect>
+  <rect x="636" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="60" dur="0.7s" begin="0.5s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="155" dur="0.7s" begin="0.5s" fill="freeze"/>
+  </rect>
+  <rect x="674" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="105" dur="0.7s" begin="0.65s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="110" dur="0.7s" begin="0.65s" fill="freeze"/>
+  </rect>
+  <rect x="712" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="95" dur="0.7s" begin="0.8s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="120" dur="0.7s" begin="0.8s" fill="freeze"/>
+  </rect>
+  <rect x="750" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="135" dur="0.7s" begin="0.95s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="80" dur="0.7s" begin="0.95s" fill="freeze"/>
+  </rect>
+  <rect x="788" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="125" dur="0.7s" begin="1.1s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="90" dur="0.7s" begin="1.1s" fill="freeze"/>
+  </rect>
+  <rect x="826" y="215" width="26" height="0" rx="4" fill="url(#bar)">
+    <animate attributeName="height" from="0" to="170" dur="0.7s" begin="1.25s" fill="freeze"/>
+    <animate attributeName="y" from="215" to="45" dur="0.7s" begin="1.25s" fill="freeze"/>
+  </rect>
 
-### 🛠️ Tech Stack & Tools
+  <!-- trend line draws itself -->
+  <polyline points="573,156 611,131 649,141 687,96 725,106 763,66 801,76 839,31"
+            fill="none" stroke="#fbbf24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+            stroke-dasharray="360" stroke-dashoffset="360">
+    <animate attributeName="stroke-dashoffset" from="360" to="0" dur="1.4s" begin="1.6s" fill="freeze"/>
+  </polyline>
 
-*   **Programming:** SQL (MySQL), Python (Pandas, NumPy, Scikit-learn), R
-*   **Data Visualization & BI:** Power BI, Tableau, MS Excel (Power Query, XLOOKUP, Pivot Tables)
-*   **Statistical Analysis:** Econometrics, Time Series, Hypothesis Testing, Regression, Correlation
+  <!-- end point with pulse -->
+  <circle cx="839" cy="31" r="0" fill="#fbbf24">
+    <animate attributeName="r" from="0" to="6" dur="0.3s" begin="3s" fill="freeze"/>
+  </circle>
+  <circle cx="839" cy="31" r="6" fill="none" stroke="#fbbf24" opacity="0">
+    <animate attributeName="r" values="6;16" dur="1.8s" begin="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0" dur="1.8s" begin="3s" repeatCount="indefinite"/>
+  </circle>
 
----
+  <!-- status pill (delete this group if you don't want it) -->
+  <rect x="40" y="30" width="165" height="28" rx="14" fill="#4ade80" fill-opacity="0.12" stroke="#4ade80" stroke-opacity="0.4"/>
+  <circle cx="58" cy="44" r="5" fill="#4ade80">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="72" y="48.5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#bbf7d0">OPEN TO WORK</text>
 
-### 🚀 Featured Projects
-
-#### 📉 Predicting Registration No-Shows
-**R | Logistic Regression | Predictive Modeling**
-*   **Overview:** Developed a binary Logistic Regression model (AUC 0.70) on 9K+ records to identify factors influencing event no-shows.
-*   **Impact:** Evaluated statistical significance (p-values, odds ratios, VIF) and translated model results into actionable business strategies, including overbooking quotas and targeted CRM reminders.
-
-#### 📊 Thailand Household Income & Inequality
-**Python | Pandas | Matplotlib | Seaborn**
-*   **Overview:** *Super AI Engineer Season 6 (Mini-Hackathon).* Conducted an end-to-end analysis of income distribution using the Gini Coefficient and Palma Ratio.
-*   **Impact:** Performed rigorous data quality checks, outlier treatment, and developed statistical visualizations (histograms, KDE plots) to uncover inequality trends.
-
-#### 🎯 Customer Segmentation using RFM Analysis
-**SQL | CTEs | Window Functions**
-*   **Overview:** Built an RFM (Recency, Frequency, Monetary) segmentation model to categorize customers into 5 strategic groups.
-*   **Impact:** Implemented database indexing to optimize query execution time. Delivered actionable insights for high-value "At Risk" win-back campaigns and cross-selling strategies.
-
----
-
-### 💼 Work Experience
-
-**Data Analyst Intern** @ *Eventthai Co., Ltd.* | (Nov 2025 – Mar 2026)
-*   Prepared and cleansed attendee registration data using Advanced MS Excel.
-*   Built an interactive financial dashboard for HR to track staffing costs, project values, and profit margins.
-*   Generated executive summary reports analyzing key event metrics and questionnaire results.
-
----
-
-### 🎓 Education
-
-**Bachelor of Economics** | *Chiang Mai University* | (Jun 2022 – Mar 2026)
-*   **GPA:** 3.64
-
----
-
-### 📫 Let's Connect!
-
-*   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
-*   **Portfolio:** [Link to your portfolio or website](#)
-<!--
-**YoshPT/YoshPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- text -->
+  <text x="40" y="128" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" fill="#ffffff">Josh Poomrat</text>
+  <text x="40" y="168" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#5eead4">Business-focused Data Analyst</text>
+  <text x="40" y="204" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#94a3b8">Economics &#215; Statistics &#215; SQL &#183; Python &#183; R &#183; BI</text>
+</svg>
