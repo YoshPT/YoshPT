@@ -80,7 +80,7 @@
   <text x="72" y="48.5" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#bbf7d0">OPEN TO WORK</text>
 
   <!-- text -->
-  <text x="40" y="128" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" fill="#ffffff">Josh Poomrat</text>
+  <text x="40" y="128" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="52" font-weight="800" fill="#ffffff">Yosh Poomrat</text>
   <text x="40" y="168" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#5eead4">Business-focused Data Analyst</text>
   <text x="40" y="204" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#94a3b8">Economics &#215; Statistics &#215; SQL &#183; Python &#183; R &#183; BI</text>
 </svg>
