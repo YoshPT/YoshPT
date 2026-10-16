@@ -74,7 +74,7 @@ End-to-end EDA with data quality checks, missing value handling, and outlier tre
 
 > **💡 Insight:** Uncovered top product preferences for "Champions" to drive bundle promotions, and identified high-value "At Risk" targets for direct win-back campaigns.
 
-Built an **RFM segmentation model** via advanced SQL to categorize customers into 5 groups. Implemented schema design and indexing for query optimization to drive cross-selling strategies.
+Built an **RFM segmentation model** via advanced SQL to categorize customers into 6 groups. Implemented schema design and indexing for query optimization to drive cross-selling strategies.
 
 <br>
 
