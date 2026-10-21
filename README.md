@@ -42,7 +42,7 @@
 
 > **💡 Insight:** Longer lead time means higher no-show risk (about +2.8% odds per extra day). 
 
-Applied **Logistic Regression** on 9,179 registrations (AUC 0.70). Validated with p-values, odds ratios, and VIF to establish overbooking quotas and targeted CRM reminders.
+Applied Logistic Regression on 9,179 registrations (AUC 0.70). Tested drivers with p-values and odds ratios, checked VIF, and proposed risk-based reminders and overbooking.
 
 <br>
 
