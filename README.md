@@ -54,11 +54,11 @@ Applied **Logistic Regression** on 9,179 registrations (AUC 0.70). Validated wit
 <td width="33%" valign="top">
 
 **📊 PROJECT 02**
-### How unequal is Thai household income?
+### How unequal is Thai household income? A group-level view
 
-> **💡 Insight:** Measured economic disparity effectively using Grouped Gini Coefficient and Palma Ratio.
+> **💡 Insight:** Managers/professionals earn ~3× agricultural workers, and Chanthaburi is the most unequal province.
 
-End-to-end EDA with data quality checks, missing value handling, and outlier treatment. Visualized data stories using histograms, KDE plots, and box plots. Built for Super AI Engineer.
+Group-level Gini and Palma analysis of NSO 2023 data, from data cleaning to province-level comparisons. Built for Super AI Engineer.
 
 <br>
 
@@ -72,9 +72,9 @@ End-to-end EDA with data quality checks, missing value handling, and outlier tre
 **🎯 PROJECT 03**
 ### Who Are Our Most Valuable Customers?
 
-> **💡 Insight:** Champions and Loyal customers (15% of customers) generate about 70% of revenue. Found cross-sell opportunities in Champions' product mix and a list of high-value "At Risk" accounts for direct win-back outreach.
+> **💡 Insight:** Champions and Loyal customers, just 15% of the base, generate ~70% of revenue.
 
-Built an **RFM segmentation model** in SQL to classify 812 customers (2,000 transactions) into 6 segments for targeted marketing. Cleaned the raw data into a staging table with validation checks and added a covering index to support the RFM queries.
+RFM segmentation in SQL: 812 customers (2,000 transactions) classified into 6 segments for targeted marketing, with cross-sell opportunities and a win-back list of high-value "At Risk" accounts.
 
 <br>
 
