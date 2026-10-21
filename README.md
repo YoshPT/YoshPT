@@ -38,11 +38,11 @@
 <td width="33%" valign="top">
 
 **🎟️ PROJECT 01**
-### What drives event no-shows?
+### What factors are linked to event no-shows?
 
-> **💡 Insight:** Longer lead time means higher no-show risk (about +2.8% odds per extra day). 
+> **💡 Insight:** Longer lead time → higher no-show odds (+2.8% per extra day). Past attendance, company size, and job role matter too.
 
-Applied Logistic Regression on 9,179 registrations (AUC 0.70). Tested drivers with p-values and odds ratios, checked VIF, and proposed risk-based reminders and overbooking.
+Economics senior project: Binary Logistic Regression in R on 9,179 real event registrations from my co-op at Eventthai. Estimated odds ratios to see which registrant characteristics are associated with no-shows.
 
 <br>
 
