@@ -72,16 +72,16 @@ End-to-end EDA with data quality checks, missing value handling, and outlier tre
 **🎯 PROJECT 03**
 ### Who Are Our Most Valuable Customers?
 
-> **💡 Insight:** Uncovered top product preferences for "Champions" to drive bundle promotions, and identified high-value "At Risk" targets for direct win-back campaigns.
+> **💡 Insight:** Champions and Loyal customers (15% of customers) generate about 70% of revenue. Found cross-sell opportunities in Champions' product mix and a list of high-value "At Risk" accounts for direct win-back outreach.
 
-Built an **RFM segmentation model** via advanced SQL to categorize customers into 6 groups. Implemented schema design and indexing for query optimization to drive cross-selling strategies.
+Built an **RFM segmentation model** in SQL to classify 812 customers (2,000 transactions) into 6 segments for targeted marketing. Cleaned the raw data into a staging table with validation checks and added a covering index to support the RFM queries.
 
 <br>
 
 🛠️ `SQL` `MySQL` `CTEs` `Window Functions`
 
 [**View project →**](https://github.com/YoshPT/SQL-RFM-Customer-Segmentation)
-
+ 
 </td>
 </tr>
 </table>
