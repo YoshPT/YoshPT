@@ -56,9 +56,9 @@ Economics senior project: Logistic Regression in R on 9,179 real registrations (
 **📊 PROJECT 02**
 ### How unequal is Thai household income? A group-level view
 
-> **💡 Insight:** Managers/professionals earn ~3× agricultural workers, and Chanthaburi is the most unequal province.
+> **💡 Insight:** Managers/professionals earn ~3.1× agricultural laborers, and Chanthaburi tops the province gap ranking, but only because of one extreme group (tenant farmers).
 
-Group-level Gini and Palma analysis of NSO 2023 data, from data cleaning to province-level comparisons. Built for Super AI Engineer.
+Group-level Gini and CV analysis of NSO 2023 household income data, from data cleaning to province comparisons and income-source structure. Built for Super AI Engineer Season 6.
 
 <br>
 
