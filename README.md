@@ -120,22 +120,4 @@ RFM segmentation in SQL: 812 customers (2,000 transactions) classified into 6 se
 
 </div>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" preserveAspectRatio="none" role="presentation">
-  <!-- คลื่นหลัง: มิ้นต์โปร่งแสง ไหลไปซ้าย -->
-  <path fill="#5eead4" fill-opacity="0.35"
-        d="M0,34 c112,-26 338,26 450,0 c112,-26 338,26 450,0 c112,-26 338,26 450,0 c112,-26 338,26 450,0 L1800,100 L0,100 Z">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="14s" repeatCount="indefinite"/>
-  </path>
-
-  <!-- คลื่นกลาง: น้ำเงินเทา ไหลสวนไปขวา -->
-  <path fill="#2c5364" fill-opacity="0.85"
-        d="M0,52 c150,-22 450,22 600,0 c150,-22 450,22 600,0 c150,-22 450,22 600,0 L1800,100 L0,100 Z">
-    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="18s" repeatCount="indefinite"/>
-  </path>
-
-  <!-- คลื่นหน้า: สีเข้มเท่า header ไหลไปซ้ายเร็วกว่าเล็กน้อย -->
-  <path fill="#0f2027"
-        d="M0,70 c112,-14 338,14 450,0 c112,-14 338,14 450,0 c112,-14 338,14 450,0 c112,-14 338,14 450,0 L1800,100 L0,100 Z">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="10s" repeatCount="indefinite"/>
-  </path>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" /> 
