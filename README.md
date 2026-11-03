@@ -26,9 +26,9 @@
 
 ### 1. What factors are linked to event no-shows?
 
-> **💡 Insight:** Longer lead time → higher no-show odds (+2.8% per extra day). Past attendance and larger companies → lower odds.
+> **💡 Focus:** Which registration behaviors and attributes are associated with no-shows? Modeled with logistic regression and odds ratios.
 
-Economics senior project: Logistic Regression in R on 9,179 anonymized registrations. Tested significance with p-values and odds ratios, then interpreted the results and suggested ideas such as risk-based reminders.
+Economics senior project: Logistic Regression in R on anonymized event-registration data. Applied p-values and odds ratios to study the factors behind no-shows and suggested ideas such as risk-based reminders.
 
 🛠️ `R` `RStudio` · 🔒 Data proprietary (not published) · [**View project →**](https://github.com/YoshPT/event-noshow-prediction)
 
