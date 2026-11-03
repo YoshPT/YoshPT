@@ -28,7 +28,9 @@
 
 > **💡 Insight:** Longer lead time → higher no-show odds (+2.8% per extra day). Past attendance and larger companies → lower odds.
 
-Economics senior project: Logistic Regression in R on 9,179 registrations. Tested significance with p-values and odds ratios, then interpreted the results and suggested ideas such as risk-based reminders.
+Economics senior project: Logistic Regression in R on 9,179 anonymized registrations. Tested significance with p-values and odds ratios, then interpreted the results and suggested ideas such as risk-based reminders.
+
+🔒 Data is proprietary and not published. The repo includes a data dictionary and a synthetic-data demo.
 
 🛠️ `R` `RStudio` · [**View project →**](https://github.com/YoshPT/event-noshow-prediction)
 
