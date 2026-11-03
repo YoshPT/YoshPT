@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YoshPT/YoshPT/main/assets/header.svg" alt="Yosh Poomrat, Business-focused Data Analyst" width="100%" />
+<img src="https://raw.githubusercontent.com/YoshPT/YoshPT/main/assets/header.svg" alt="Yosh Poomrat, Data Analyst" width="100%" />
 
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=45&lines=Turning+raw+data+into+clear+answers;Analyzing+factors+behind+event+no-shows;Measuring+how+unequal+income+really+is;Finding+customers+worth+winning+back" alt="typing animation" />
