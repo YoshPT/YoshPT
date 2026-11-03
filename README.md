@@ -9,105 +9,64 @@
 </div>
 
 --- 
-## 🔗 About Me
+## 👋 About me
 
-**Economics graduate** who turns raw data into clear answers. I work with **SQL, Python, R, and BI tools** across data preparation, visualization, and dashboards, and I use **statistical methods** to uncover patterns and the **business drivers** behind them.
+**Economics graduate** who turns raw data into clear answers. I work with **SQL, Python, R, and BI tools** across data preparation, visualization, and dashboards, and use statistical methods to uncover patterns and the business drivers behind them.
 
-<br>
+<div align="center">
 
 `🤔 Question` ➔ `🧹 Clean` ➔ `📊 Analyze` ➔ `📈 Visualize` ➔ `💡 Recommend`
 
-<br>
+</div>
 
-<table>
-  <tr>
-    <td><b>🎓 Education</b></td>
-    <td>B.Econ, Chiang Mai University · GPA 3.64</td>
-  </tr>
-  <tr>
-    <td><b>🗣️ Languages</b></td>
-    <td>Thai (Native) · English (Intermediate)</td>
-  </tr>
-</table>
+- 🎓 **Education:** B.Econ, Chiang Mai University · GPA 3.64
+- 🗣️ **Languages:** Thai (native) · English (intermediate)
 
----
-## 🚀 Project
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🎟️ PROJECT 01**
-### What factors are linked to event no-shows?
+### 1. What factors are linked to event no-shows?
 
 > **💡 Insight:** Longer lead time → higher no-show odds (+2.8% per extra day). Past attendance and larger companies → lower odds.
 
 Economics senior project: Logistic Regression in R on 9,179 real registrations (data from my co-op at Eventthai). Tested significance with p-values and odds ratios, then interpreted the results and suggested ideas such as risk-based reminders and overbooking.
 
+🛠️ `R` `RStudio` · [**View project →**](https://github.com/YoshPT/event-noshow-prediction)
+
 <br>
 
-🛠️ `R` `RStudio`
+### 2. How unequal is Thai household income? A group-level view
 
-[**View project →**](https://github.com/YoshPT/event-noshow-prediction)
-
-</td>
-<td width="33%" valign="top">
-
-**📊 PROJECT 02**
-### How unequal is Thai household income? A group-level view
-
-> **💡 Insight:** Managers/professionals earn ~3.1× agricultural laborers, and Chanthaburi tops the province gap ranking, but only because of one extreme group (tenant farmers).
+> **💡 Insight:** Managers/professionals earn ~3.1× agricultural laborers. Chanthaburi tops the province gap ranking, but only because of one extreme group (tenant farmers).
 
 Group-level Gini and CV analysis of NSO 2023 household income data, from data cleaning to province comparisons and income-source structure. Built for Super AI Engineer Season 6.
 
+🛠️ `Python` `Pandas` `Seaborn` · [**View project →**](https://github.com/YoshPT/Thailand-Income-Inequality-EDA)
+
 <br>
 
-🛠️ `Python` `Pandas` `Seaborn`
-
-[**View project →**](https://github.com/YoshPT/Thailand-Income-Inequality-EDA/tree/main)
-
-</td>
-<td width="33%" valign="top">
-
-**🎯 PROJECT 03**
-### Who Are Our Most Valuable Customers?
+### 3. Who are our most valuable customers?
 
 > **💡 Insight:** Champions and Loyal customers, just 15% of the base, generate ~70% of revenue.
 
 RFM segmentation in SQL: 812 customers (2,000 transactions) classified into 6 segments for targeted marketing, with cross-sell opportunities and a win-back list of high-value "At Risk" accounts.
 
-<br>
+🛠️ `SQL` `MySQL` `CTEs` `Window Functions` · [**View project →**](https://github.com/YoshPT/SQL-RFM-Customer-Segmentation)
 
-🛠️ `SQL` `MySQL` `CTEs` `Window Functions`
+## 💼 Work experience
 
-[**View project →**](https://github.com/YoshPT/SQL-RFM-Customer-Segmentation)
- 
-</td>
-</tr>
-</table>
+**Data Analyst Intern** · Eventthai Co., Ltd.  
+*Nov 2025 – Mar 2026*
 
----
-## 🧰 Toolbox & Skills
+- **Data wrangling & reporting:** Cleansed and structured complex attendee registration data using advanced MS Excel, ensuring high data integrity for event organizers' analytical reports.
+- **Event analytics:** Generated executive summaries by analyzing core metrics, including daily check-ins, acquisition link sources, access scans, and questionnaire results.
+- **Financial BI dashboard:** Built an interactive dashboard for the HR department to track staffing costs, project values, and profit margins, giving the executive board data-driven insights.
 
-*   **Languages:** `MySQL` `Python` `R`
-*   **BI & Analytics:** `Power BI` `Tableau` `MS Excel` `Google Workspace`
-*   **Data Wrangling & Libraries:** `Pandas` `NumPy` `Scikit-learn` `Power Query` `XLOOKUP` `Pivot Tables`
-*   **Statistical Analysis:** `Econometrics` `Time Series` `Hypothesis Testing` `Correlation` `Regression`
+## 🧰 Toolbox & skills
 
----
-
-## 💼 Work Experience
-
-<table width="100%">
-  <tr>
-    <td><b>Data Analyst Intern</b> @ Eventthai Co., Ltd.</td>
-    <td align="right"><i>Nov 2025 – Mar 2026</i></td>
-  </tr>
-</table>
-
-* **🧹 Data Wrangling & Reporting:** Cleansed and structured complex attendee registration data using **Advanced MS Excel**, ensuring high data integrity for event organizers' analytical reports.
-* **📊 Event Analytics:** Generated executive summaries by analyzing core metrics, including daily check-ins, acquisition link sources, access scans, and questionnaire results.
-* **📈 Financial BI Dashboard:** Built an interactive dashboard for the HR department to track staffing costs, project values, and profit margins, empowering the executive board with data-driven insights.
+- **Languages:** `SQL (MySQL)` `Python` `R`
+- **BI & analytics:** `Power BI` `Tableau` `MS Excel` `Google Workspace`
+- **Data wrangling & libraries:** `Pandas` `NumPy` `Scikit-learn` `Power Query` `XLOOKUP` `Pivot Tables`
+- **Statistical analysis:** `Econometrics` `Time Series` `Hypothesis Testing` `Correlation` `Regression`
 
 ---
 
