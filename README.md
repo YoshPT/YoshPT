@@ -31,6 +31,7 @@
 Economics senior project: Logistic Regression in R on 9,179 anonymized registrations. Tested significance with p-values and odds ratios, then interpreted the results and suggested ideas such as risk-based reminders.
 
 🛠️ `R` `RStudio` · 🔒 Data proprietary (not published) · [**View project →**](https://github.com/YoshPT/event-noshow-prediction)
+
 <br>
 
 ### 2. How unequal is Thai household income? A group-level view
