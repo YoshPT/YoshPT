@@ -64,7 +64,7 @@ RFM segmentation in SQL: 812 customers (2,000 transactions) classified into 6 se
 ## 🧰 Toolbox & skills
 
 - **Languages:** `SQL (MySQL)` `Python` `R`
-- **BI & analytics:** `Power BI` `Tableau` `MS Excel` `Google Workspace`
+- **BI & analytics:** `Power BI` `Tableau` `MS Excel`
 - **Data wrangling & libraries:** `Pandas` `NumPy` `Matplotlib` `Power Query` `XLOOKUP` `Pivot Tables`
 - **Statistical analysis:** `Econometrics` `Time Series` `Hypothesis Testing` `Correlation` `Regression`
 
