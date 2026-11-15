@@ -58,7 +58,7 @@ RFM segmentation in SQL: 812 customers (2,000 transactions) classified into 6 se
 *Nov 2025 – Mar 2026*
 
 - **Data wrangling & reporting:** Cleansed and structured complex attendee registration data using advanced MS Excel, ensuring high data integrity for event organizers' analytical reports.
-- **Event analytics:** Generated executive summaries by analyzing core metrics, including daily check-ins, acquisition link sources, access scans, and questionnaire results.
+- **Event analytics:** Generated executive summaries by analyzing core metrics, including daily check-ins, Tracking link sources, access scans, and questionnaire results.
 - **Financial BI dashboard:** Built an interactive dashboard for the HR department to track staffing costs, project values, and profit margins, giving the executive board data-driven insights.
 
 ## 🧰 Toolbox & skills
